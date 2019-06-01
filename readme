@@ -2,12 +2,12 @@ This is code and data for my article
 
 Partisan Lean of States: Electoral College and Popular Vote.
 
-Updated Data: numbers of votes for D and R in each state.
-Scenarios: Democrats win probabilities for each states, given nationwide PV%, in 2020 and 2024, frequentist setting
-Bayesian Scenarios: Same but in Bayesian setting
-Coefficients: Point estimates for regression coefficients
-CoeffIntervals: 90% Confidence intervals for regression coefficients
-Fisherian and Bayesian: Python code
+Updated Data.xlsx: numbers of votes for D and R in each state.
+Bayesian Scenarios.csv: Democrats win probabilities for each states, given nationwide PV%, in 2020 and 2024
+coefficients.csv: Point estimates for regression coefficients
+coeffIntervals.csv: 90% Confidence intervals for regression coefficients
+Bayesian.py: Python code
+stateSigmaPopulation.xlsx: Census population versus sigma from Coefficients.csv
 
 
 
